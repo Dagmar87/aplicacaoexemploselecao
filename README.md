@@ -117,13 +117,13 @@ Após realização das operações CRUD, os dados serão enviados e guardados no
 
 ##### Tarefa
 
-![image-20210621100625097](C:\Users\JOSE DADMAR\AppData\Roaming\Typora\typora-user-images\image-20210621100625097.png)
+![image](https://user-images.githubusercontent.com/64164006/122772312-a2435a00-d27d-11eb-87e2-4c7069da89fd.png)
 
 ​											Resultado das Operações CRUD do campo Tarefa no MySQL
 
 ##### Responsável
 
-![image-20210621100659295](C:\Users\JOSE DADMAR\AppData\Roaming\Typora\typora-user-images\image-20210621100659295.png)
+![image](https://user-images.githubusercontent.com/64164006/122772440-c2731900-d27d-11eb-91f3-58b6a141c917.png)
 
 ​									Resultado das Operações CRUD do campo Responsável no MySQL
 
@@ -135,19 +135,19 @@ Para realização das operações do sistema no sentido Front-End, foram criadas
 
 Essa é a tela inicial do site onde temos a mensagem de bem-vindo do projeto, a descrição sobre o projeto e os menu de acesso as telas de cadastro e de consulta, conforme a imagem abaixo:
 
-![image-20210621101756680](C:\Users\JOSE DADMAR\AppData\Roaming\Typora\typora-user-images\image-20210621101756680.png)
+![image](https://user-images.githubusercontent.com/64164006/122772529-dae33380-d27d-11eb-8640-7f44fb41d10e.png)
 
 #### Tela de Cadastro de Tarefas
 
 Essa é a tela onde será realizada a operação de cadastro das tarefas, tendo todos os parâmetros da entidade Tarefa que serão preenchidos nessa tela, conforme a imagem abaixo:
 
-![image-20210621102031694](C:\Users\JOSE DADMAR\AppData\Roaming\Typora\typora-user-images\image-20210621102031694.png)  
+![image](https://user-images.githubusercontent.com/64164006/122772589-ea627c80-d27d-11eb-81bb-3789621aa0a1.png)
 
 #### Tela de Consulta de Tarefas
 
 Essa é a tela onde será realizada a listagem das tarefas através da consulta de um dos parâmetros da entidade Tarefa e através dessa listagem também serão realizados as operações de atualização e  de apagamento das tarefas, conforme a imagem abaixo:
 
-![image-20210621102802952](C:\Users\JOSE DADMAR\AppData\Roaming\Typora\typora-user-images\image-20210621102802952.png)
+![image](https://user-images.githubusercontent.com/64164006/122772678-ff3f1000-d27d-11eb-9475-f44b99e43fe3.png)
 
 ### Observações do Projeto
 
