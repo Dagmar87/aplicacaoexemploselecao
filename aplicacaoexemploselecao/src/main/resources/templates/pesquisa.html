@@ -1,0 +1,88 @@
+<html>
+
+    <head>
+        <title>Pesquisa de Tarefas</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">    
+        <link rel="stylesheet" type="text/css" href="pesqStyle.css">        
+    </head>
+
+    <body>
+        <h1>Pesquisa de Tarefas</h1> 
+        <form>
+            <fieldset>
+                <legend>Listagem de Tarefas</legend>
+                <table id="pesquisa" cellspacing="10">
+                    <tr>
+                        <td>
+                            <label for="numero">Numero: </label>
+                        </td>
+                        <td align="left">
+                            <input type="text" name="numero">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="titulo">Titulo/Descrição: </label>
+                        </td>
+                        <td align="left">
+                            <input type="text" name="titulo">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="responsavel">Responsável: </label>
+                        </td>
+                        <td align="left">
+                            <select name="responsavel">
+                                <option value="select">Select</option>
+                            </select>
+                        </td>
+                        <td>
+                            <label for="situacao">Situação: </label>
+                        </td>
+                        <td align="left">
+                            <select name="situacao">
+                                <option value="and">Em andamento</option>
+                                <option value="con">Concluida</option>
+                            </select>
+                        </td>
+                        <td>
+                            <button>Buscar Tarefas</button>
+                        </td>
+                    </tr>
+                </table>
+            </fieldset>
+
+            <br/>
+
+            <fieldset>
+                <legend>Resultado da Pesquisa</legend>
+                <table border="1">
+                    <colgroup span="4" class="columns"></colgroup>
+                    <thead>
+                        <tr>
+                            <th>Numero</th>
+                            <th>Titulo</th>
+                            <th>Responsável</th>
+                            <th>Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>                            
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>
+                                <button>Editar</button>
+                                <button>Excluir</button>
+                                <button>Concluir</button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </fieldset>
+        </form>
+        <button><a href="index.html">Voltar</a></button>
+    </body>
+
+</html>
