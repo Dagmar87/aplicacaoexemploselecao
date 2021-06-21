@@ -77,17 +77,25 @@ Link da imagem dessa operação: https://github.com/Dagmar87/aplicacaoexemplosel
 
 URL deste método: http://localhost:8072/tarefa/{numero}
 
+Link da imagem dessa operação: https://github.com/Dagmar87/aplicacaoexemploselecao/blob/master/img/Tarefa%20-%20findById.jpg
+
 - Create => Essa operação irá criar um novo cadastro de uma tarefa.
 
 URL deste método: http://localhost:8072/tarefa
+
+Link da imagem dessa operação: https://github.com/Dagmar87/aplicacaoexemploselecao/blob/master/img/Tarefa%20-%20create.jpg
 
 - Update => Essa operação irá atualizar os dados de uma tarefa cadastrada.
 
 URL deste método: http://localhost:8072/tarefa/{numero}
 
+Link da imagem dessa operação: https://github.com/Dagmar87/aplicacaoexemploselecao/blob/master/img/Tarefa%20-%20update.jpg
+
 - Delete => Essa operação irá apagar os dados da tarefa cadastrada.
 
 URL deste método: http://localhost:8072/tarefa/{numero}
+
+Link da imagem dessa operação: https://github.com/Dagmar87/aplicacaoexemploselecao/blob/master/img/Tarefa%20-%20delete.jpg
 
 #### Responsável
 
@@ -97,21 +105,31 @@ As operações CRUD da Responsável são divididas em 5 operações que são:
 
 URL deste método: http://localhost:8072/responsavel
 
+Link da imagem dessa operação: https://github.com/Dagmar87/aplicacaoexemploselecao/blob/master/img/Responsavel%20-%20findAll.jpg
+
 - FindById => Essa operação irá consultar um determinado responsável cadastrado partir do id deste.
 
 URL deste método: http://localhost:8072/responsavel/{id}
+
+Link da imagem dessa operação: https://github.com/Dagmar87/aplicacaoexemploselecao/blob/master/img/Responsavel%20-%20findById.jpg
 
 - Create => Essa operação irá criar um novo cadastro de um responsável .
 
 URL deste método: http://localhost:8072/responsavel
 
+Link da imagem dessa operação: https://github.com/Dagmar87/aplicacaoexemploselecao/blob/master/img/Responsavel%20-%20create.jpg
+
 - Update => Essa operação irá atualizar os dados de um responsável cadastrado.
 
 URL deste método: http://localhost:8072/responsavel/{id}
 
+Link da imagem dessa operação: https://github.com/Dagmar87/aplicacaoexemploselecao/blob/master/img/Responsavel%20-%20update.jpg
+
 - Delete => Essa operação irá apagar os dados do responsável cadastrado.
 
 URL deste método: http://localhost:8072/responsavel/{id}
+
+Link da imagem dessa operação: https://github.com/Dagmar87/aplicacaoexemploselecao/blob/master/img/Responsavel%20-%20delete.jpg
 
 #### Resultados das Operações no MySQL
 
