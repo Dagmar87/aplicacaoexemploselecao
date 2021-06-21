@@ -71,6 +71,8 @@ As operações CRUD da Tarefa são divididas em 5 operações que são:
 
 URL deste método: http://localhost:8072/tarefa
 
+Link da imagem dessa operação: https://github.com/Dagmar87/aplicacaoexemploselecao/blob/master/img/Tarefa%20-%20findAll.jpg
+
 - FindById => Essa operação irá consultar uma determinada tarefa cadastrada partir do numero deste.
 
 URL deste método: http://localhost:8072/tarefa/{numero}
